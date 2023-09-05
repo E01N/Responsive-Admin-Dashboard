@@ -1,7 +1,7 @@
 # **Admin Dashboard**
 ## **A fully responsive website design using HTML, CSS, and Javascript. The objective of this site is to demonstrate my ability and skill with UX/UI** 
 ### This project has a simple and sleek design showing some basic information that would be useful to an E-Commerce website Admin.
-![alt text](images/README-images/landing.jpg)
+![alt text](images/README-img/landing.jpg)
 
 
 **On the left of the page is the menu with buttons to the relevant sections with some sleek and quick animations and styling.**
