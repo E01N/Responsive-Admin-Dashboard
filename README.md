@@ -16,3 +16,6 @@
 ![](https://github.com/E01N/Responsive-Admin-Dashboard/blob/main/images/README-img/themegif.gif)
 
 ## [View the deployed website here!](https://e01n.github.io/Responsive-Admin-Dashboard/)
+
+
+## [This is the original repo where I developed the project](https://github.com/E01N-MURPHY/Responsive-Admin-Dashboard)
